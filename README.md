@@ -86,8 +86,6 @@ If you don’t have all of this information at the time, please still make the r
 
 - If you feel unsafe reporting in person, you may choose someone to represent you. In this case, we’d need their contact information, but we’d ask you to make clear that this person represents you.
 
-When handling a report, we follow our Code of Conduct Response Guide.
-
 All reports will be kept confidential. In some cases a public statement might be required (for example if the individual's actions directly or indirectly affected the community), but these reports are anonymized and do not include any personally identifying information.
 
 ## Contact Details
