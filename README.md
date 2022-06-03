@@ -39,6 +39,7 @@ This Code of Conduct applies to all spaces managed by Deep South Devs. This incl
 - GitHub
 - Twitter hashtag and mentions
 - LinkedIn engagements
+- YouTube comments
 - Any other forums created by the which the community uses for communication.
 
 In addition, violations of this code outside our spaces may affect a person’s ability to participate in them.
